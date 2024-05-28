@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surpresa para [Nome dela]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Surpresa para [Nome dela]</h1>
+        <p>Clique no botão abaixo para ouvir uma música especial!</p>
+        <button id="surpriseButton">Aperte aqui</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
